@@ -1,3 +1,7 @@
 # Lab 5 - Starter
 
 Thomas Rexin
+
+https://github.com/thomasrexin/introduction-to-github
+
+https://thomasrexin.github.io/Lab5_Starter/explore.html
